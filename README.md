@@ -6,3 +6,11 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - https://base.org
 - https://guild.xyz/base
+
+## Wallets
+
+- MetaMask
+- Rabby Wallet
+- Base App
+- Rainbow
+- Zerion
