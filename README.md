@@ -26,3 +26,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - LI.FI
 - Polymer
 - LayerZero
+
+## Base Ecosystem Apps
+
+- Farcaster
+- Zora
+- Friend.tech
