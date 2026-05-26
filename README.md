@@ -32,3 +32,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Farcaster
 - Zora
 - Friend.tech
+
+## Learning Goals
+
+- Deploy a smart contract on Base
+- Learn account abstraction
+- Explore onchain social apps
