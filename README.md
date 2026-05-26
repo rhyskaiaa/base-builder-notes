@@ -33,6 +33,11 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Zora
 - Friend.tech
 
+## Development Tools
+
+- Foundry
+- Hardhat
+
 ## Learning Goals
 
 - Deploy a smart contract on Base
