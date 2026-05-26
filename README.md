@@ -74,6 +74,11 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Explore onchain social apps
 
 ---
+## Testing
+
+- Base Sepolia testnet
+
+---
 ## Security
 
 - Hardware wallets
