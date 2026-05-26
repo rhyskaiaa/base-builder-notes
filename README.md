@@ -11,7 +11,7 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - MetaMask
 - Rabby Wallet
-- Base App
+- Base App — Base ecosystem wallet and social app
 - Rainbow
 - Zerion
 
