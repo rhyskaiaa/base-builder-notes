@@ -52,3 +52,7 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - Zora
 - OpenSea
+
+## Social
+
+- Farcaster
