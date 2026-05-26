@@ -43,3 +43,7 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Deploy a smart contract on Base
 - Learn account abstraction
 - Explore onchain social apps
+
+## Explorers
+
+- Basescan
