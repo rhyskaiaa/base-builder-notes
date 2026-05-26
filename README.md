@@ -88,3 +88,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 ## Gas
 
 - Lower transaction fees compared to Ethereum mainnet
+
+---
+## Learning Resources
+
+- Base documentation
+- Solidity documentation
