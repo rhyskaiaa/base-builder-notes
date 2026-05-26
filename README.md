@@ -38,12 +38,6 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Foundry
 - Hardhat
 
-## Learning Goals
-
-- Deploy a smart contract on Base
-- Learn account abstraction
-- Explore onchain social apps
-
 ## Explorers
 
 - Basescan
@@ -62,4 +56,8 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Smart wallets
 - Gas abstraction
 
+## Learning Goals
 
+- Deploy a smart contract on Base
+- Learn account abstraction
+- Explore onchain social apps
