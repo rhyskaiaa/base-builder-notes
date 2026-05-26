@@ -72,3 +72,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Deploy a smart contract on Base
 - Learn account abstraction
 - Explore onchain social apps
+
+---
+## Security
+
+- Hardware wallets
+- Multi-signature wallets
