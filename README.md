@@ -19,7 +19,7 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - Jumper Exchange
 - Relay
-- Stargate
+- Stargate — cross-chain liquidity transfer protocol
 
 ## Infrastructure
 
@@ -61,3 +61,5 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - Smart wallets
 - Gas abstraction
+
+
