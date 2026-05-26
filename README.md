@@ -56,3 +56,8 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 ## Social
 
 - Farcaster
+
+## Wallet Features
+
+- Smart wallets
+- Gas abstraction
