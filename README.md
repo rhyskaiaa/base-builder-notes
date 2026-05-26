@@ -23,9 +23,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 ## Infrastructure
 
-- LI.FI
+- LI.FI - https://li.fi
 - Polymer
-- LayerZero
+- LayerZero - https://layerzero.network
 
 ## Base Ecosystem Apps
 
