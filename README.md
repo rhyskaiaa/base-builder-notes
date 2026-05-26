@@ -2,11 +2,13 @@
 
 Documenting useful Base ecosystem resources, tools, and learning notes.
 
+---
 ## Useful Links
 
 - https://base.org
 - https://guild.xyz/base
 
+---
 ## Wallets
 
 - MetaMask
@@ -15,47 +17,56 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Rainbow
 - Zerion
 
+---
 ## Bridges
 
 - Jumper Exchange
 - Relay
 - Stargate — cross-chain liquidity transfer protocol
 
+---
 ## Infrastructure
 
 - LI.FI - https://li.fi
 - Polymer
 - LayerZero - https://layerzero.network
 
+---
 ## Base Ecosystem Apps
 
 - Farcaster
 - Zora
 - Friend.tech
 
+---
 ## Development Tools
 
 - Foundry
 - Hardhat
 
+---
 ## Explorers
 
 - Basescan
 
+---
 ## NFT Platforms
 
 - Zora
 - OpenSea
 
+---
 ## Social
 
 - Farcaster
 
+---
 ## Wallet Features
 
 - Smart wallets
 - Gas abstraction
 
+---
 ## Learning Goals
 
 - Deploy a smart contract on Base
