@@ -83,3 +83,8 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - Hardware wallets
 - Multi-signature wallets
+
+---
+## Gas
+
+- Lower transaction fees compared to Ethereum mainnet
