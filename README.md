@@ -102,3 +102,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Test locally
 - Deploy to testnet
 - Deploy to mainnet
+
+---
+## Rollups
+
+- Optimistic rollups
+- Layer 2 scaling
