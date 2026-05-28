@@ -132,3 +132,6 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - USDC
 - DAI
+
+---
+Table of contents coming soon.
