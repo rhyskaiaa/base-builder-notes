@@ -94,3 +94,11 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - Base documentation
 - Solidity documentation
+
+---
+## Development Workflow
+
+- Write contract
+- Test locally
+- Deploy to testnet
+- Deploy to mainnet
