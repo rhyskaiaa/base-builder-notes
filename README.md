@@ -120,3 +120,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - ENS
 - Onchain reputation
+
+---
+## Governance
+
+- DAOs
+- Community voting
