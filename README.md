@@ -134,4 +134,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - DAI
 
 ---
+## Base Notes
+
+- Built on the OP Stack
+  
+---
 Table of contents coming soon.
