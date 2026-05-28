@@ -130,7 +130,7 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 ---
 ## Stablecoins
 
-- USDC
+- USDC — dollar-backed stablecoin
 - DAI
 
 ---
