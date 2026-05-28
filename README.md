@@ -114,3 +114,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - ERC-20
 - ERC-721
+
+---
+## Identity
+
+- ENS
+- Onchain reputation
