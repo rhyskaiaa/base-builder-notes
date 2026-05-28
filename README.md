@@ -126,3 +126,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - DAOs
 - Community voting
+
+---
+## Stablecoins
+
+- USDC
+- DAI
