@@ -140,3 +140,6 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
   
 ---
 Table of contents coming soon.
+
+---
+- Developed by Coinbase
