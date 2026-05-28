@@ -112,7 +112,7 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 ---
 ## Smart Contracts
 
-- ERC-20
+- ERC-20 — fungible token standard 
 - ERC-721
 
 ---
