@@ -108,3 +108,9 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 - Optimistic rollups
 - Layer 2 scaling
+
+---
+## Smart Contracts
+
+- ERC-20
+- ERC-721
