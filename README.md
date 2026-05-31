@@ -238,6 +238,20 @@ Staying secure onchain is essential when exploring new ecosystems and decentrali
 ## Base Notes
 
 - Built on the OP Stack
+
+## OP Stack & Base Architecture
+
+Base is built on the OP Stack, a modular framework developed by Optimism for scaling Ethereum.
+
+* Enables faster and cheaper transactions
+* Uses rollup technology to batch transactions
+* Inherits Ethereum security
+* Designed for interoperability with other OP Stack chains
+
+---
+
+This architecture is what allows Base to scale while staying aligned with Ethereum.
+
   
 ---
 Table of contents coming soon.
