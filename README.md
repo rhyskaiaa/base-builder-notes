@@ -204,6 +204,21 @@ Staying secure onchain is essential when exploring new ecosystems and decentrali
 - Deploy to testnet
 - Deploy to mainnet
 
+## Base Development Workflow
+
+* Set up wallet (MetaMask or Rabby)
+* Connect to Base Sepolia testnet
+* Write smart contract using Solidity
+* Compile and test locally using Foundry or Hardhat
+* Deploy to testnet
+* Verify contract on Basescan
+* Iterate and improve before mainnet deployment
+
+---
+
+This workflow helps ensure safe and structured smart contract development on Base.
+
+
 ---
 ## Rollups
 
