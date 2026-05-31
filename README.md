@@ -107,6 +107,19 @@ These tools are commonly used for building, testing, and deploying applications 
 - Learn account abstraction
 - Explore onchain social apps
 
+## Roadmap
+
+* Continue expanding Base ecosystem notes
+* Build and deploy a simple smart contract on Base Sepolia
+* Create a basic dApp frontend
+* Explore account abstraction and smart wallets
+* Document real onchain experiments and learnings
+
+---
+
+This repository will keep evolving as I learn and build within the Base ecosystem.
+
+
 ## Learning Progress
 
 * Started exploring Base ecosystem fundamentals
