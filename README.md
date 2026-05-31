@@ -2,6 +2,20 @@
 
 Documenting useful Base ecosystem resources, tools, and learning notes.
 
+## Table of Contents
+
+* What is Base
+* Wallets
+* Bridges
+* Infrastructure
+* Base Ecosystem Apps
+* DeFi on Base
+* Developer Stack
+* Security Tips
+* Testnet & Faucets
+* Learning Progress
+* Roadmap
+
 ## What is Base?
 
 Base is an Ethereum Layer 2 blockchain built on the OP Stack and incubated by Coinbase. It aims to provide fast, low-cost, and developer-friendly onchain infrastructure for apps, creators, and users.
