@@ -231,6 +231,15 @@ This workflow helps ensure safe and structured smart contract development on Bas
 - ERC-20 — fungible token standard 
 - ERC-721
 
+## Key Terms
+
+* Layer 2 — A scaling solution built on top of Ethereum to improve speed and reduce costs
+* Rollup — A technology that bundles transactions and submits them to Ethereum
+* OP Stack — Modular framework used to build optimistic rollups like Base
+* Gas Fees — Cost required to perform transactions on a blockchain
+* Smart Contract — Self-executing code deployed onchain
+
+
 ---
 ## Identity
 
