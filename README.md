@@ -150,6 +150,22 @@ These tools are commonly used for building, testing, and deploying applications 
 - Learn account abstraction
 - Explore onchain social apps
 
+## Why Base Matters
+
+Base is designed to make onchain apps more accessible by reducing costs and improving scalability.
+
+It enables:
+
+* Cheaper transactions for users
+* Easier onboarding for developers
+* Faster experimentation for new apps
+* Strong alignment with Ethereum security
+
+---
+
+This makes it a strong foundation for the next wave of decentralized applications.
+
+
 ## Roadmap
 
 * Continue expanding Base ecosystem notes
