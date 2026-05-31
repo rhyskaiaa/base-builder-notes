@@ -308,6 +308,20 @@ This workflow helps ensure safe and structured smart contract development on Bas
 
 - Built on the OP Stack
 
+## Resources Recap
+
+A quick summary of key places to learn and build on Base:
+
+* Official Base documentation
+* Solidity documentation
+* OP Stack resources
+* Basescan explorer
+* Base Sepolia testnet tools
+
+---
+
+These resources are the foundation for continuing exploration and development.
+
 ## OP Stack & Base Architecture
 
 Base is built on the OP Stack, a modular framework developed by Optimism for scaling Ethereum.
