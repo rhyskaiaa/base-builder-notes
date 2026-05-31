@@ -65,6 +65,19 @@ Base continues to grow its DeFi ecosystem with lending, liquidity, and trading p
 - Foundry
 - Hardhat
 
+## Developer Stack
+
+* Solidity
+* Ethers.js
+* Wagmi
+* Viem
+* OpenZeppelin
+
+---
+
+These tools are commonly used for building, testing, and deploying applications within the Base ecosystem.
+
+
 ---
 ## Explorers
 
