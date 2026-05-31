@@ -105,6 +105,19 @@ Base continues to grow its DeFi ecosystem with lending, liquidity, and trading p
 - Hardware wallets
 - Multi-signature wallets
 
+## Security Tips
+
+* Always verify contract addresses before interacting
+* Use hardware wallets for larger holdings
+* Avoid connecting wallets to unknown websites
+* Keep seed phrases offline
+* Revoke unused wallet permissions regularly
+
+---
+
+Staying secure onchain is essential when exploring new ecosystems and decentralized applications.
+
+
 ---
 ## Gas
 
