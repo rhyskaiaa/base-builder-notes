@@ -335,9 +335,6 @@ Base is built on the OP Stack, a modular framework developed by Optimism for sca
 
 This architecture is what allows Base to scale while staying aligned with Ethereum.
 
-  
----
-Table of contents coming soon.
 
 ---
 - Developed by Coinbase
