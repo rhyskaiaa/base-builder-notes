@@ -61,6 +61,35 @@ Base is an Ethereum Layer 2 blockchain built on the OP Stack and incubated by Co
 - Zora
 - Friend.tech
 
+## Ecosystem Overview
+
+### Social
+
+* Farcaster
+* Friend.tech
+
+### DeFi
+
+* Uniswap
+* Aerodrome
+* Moonwell
+
+### NFTs
+
+* Zora
+* OpenSea
+
+### Infrastructure
+
+* LayerZero
+* LI.FI
+* Polymer
+
+---
+
+These categories show how Base is expanding across different onchain use cases.
+
+
 ## DeFi on Base
 
 * Aerodrome
