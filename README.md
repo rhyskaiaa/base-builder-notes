@@ -25,7 +25,6 @@ Base is an Ethereum Layer 2 blockchain built on the OP Stack and incubated by Co
 * Focused on scaling onchain adoption
 * Supports EVM-compatible smart contracts
 
----
 ## Useful Links
 
 - https://base.org
