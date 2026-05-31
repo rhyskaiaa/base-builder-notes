@@ -107,6 +107,19 @@ These tools are commonly used for building, testing, and deploying applications 
 - Learn account abstraction
 - Explore onchain social apps
 
+## Learning Progress
+
+* Started exploring Base ecosystem fundamentals
+* Learning how OP Stack works under the hood
+* Practicing smart contract deployment on testnets
+* Exploring onchain social applications like Farcaster
+* Gradually building familiarity with DeFi protocols
+
+---
+
+This section will be updated as new skills and experiments are completed.
+
+
 ---
 ## Testing
 
