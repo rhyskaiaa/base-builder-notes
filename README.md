@@ -335,6 +335,11 @@ Base is built on the OP Stack, a modular framework developed by Optimism for sca
 
 This architecture is what allows Base to scale while staying aligned with Ethereum.
 
+## Personal Notes
+
+This repository is a collection of learning notes, ecosystem discoveries, and onchain development resources related to Base.
+
+The goal is to continuously explore new tools, applications, and technologies within the Ethereum Layer 2 ecosystem while improving practical Web3 knowledge over time.
 
 ---
 - Developed by Coinbase
