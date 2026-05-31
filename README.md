@@ -125,6 +125,20 @@ This section will be updated as new skills and experiments are completed.
 
 - Base Sepolia testnet
 
+## Testnet & Faucets
+
+Base Sepolia is the main testnet used for experimenting with smart contracts before deploying to mainnet.
+
+* Base Sepolia Testnet
+* Alchemy Faucet for test ETH
+* QuickNode Faucet
+* Public Base faucet resources (when available)
+
+---
+
+Testnets are essential for safe development and learning without risking real funds.
+
+
 ---
 ## Security
 
