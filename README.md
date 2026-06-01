@@ -67,6 +67,18 @@ Base is an Ethereum Layer 2 blockchain built on the OP Stack and incubated by Co
 * Farcaster
 * Friend.tech
 
+## Analytics & Tools
+
+* Dune Analytics
+* DefiLlama
+* Basescan
+* Token Terminal
+
+---
+
+Analytics platforms help track ecosystem growth, protocol activity, and onchain metrics across Base.
+
+
 ### DeFi
 
 * Uniswap
