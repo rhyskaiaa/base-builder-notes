@@ -121,6 +121,21 @@ RPC providers allow applications and wallets to interact with the Base blockchai
 * Farcaster
 * Friend.tech
 
+## Base Ecosystem Map
+
+The Base ecosystem can be understood in layers:
+
+* **Infrastructure** → RPC providers, bridges, OP Stack
+* **Development** → Smart contracts, tooling, frameworks
+* **Finance (DeFi)** → Lending, swaps, liquidity protocols
+* **Social** → Onchain identity and social apps
+* **NFTs & Creator Economy** → Minting platforms and marketplaces
+
+---
+
+Each layer supports the growth of applications and users within the Base ecosystem.
+
+
 ## Analytics & Tools
 
 * Dune Analytics
