@@ -322,6 +322,19 @@ This workflow helps ensure safe and structured smart contract development on Bas
 - ERC-20 — fungible token standard 
 - ERC-721
 
+## Smart Contract Ideas
+
+* ERC-20 token contract
+* NFT mint contract
+* Simple voting contract
+* Multi-signature wallet
+* Onchain tipping application
+
+---
+
+These are useful beginner-friendly projects for learning smart contract development on Base.
+
+
 ## Key Terms
 
 * Layer 2 — A scaling solution built on top of Ethereum to improve speed and reduce costs
