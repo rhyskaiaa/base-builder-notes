@@ -418,6 +418,20 @@ Identity onchain helps users build persistent presence across Web3 applications.
 - USDC — dollar-backed stablecoin
 - DAI
 
+## Stablecoin Usage on Base
+
+Stablecoins like USDC and DAI are widely used on Base for:
+
+* Trading on DeFi protocols
+* Liquidity provision
+* Payments and transfers
+* Reducing volatility exposure
+
+---
+
+They are a key part of everyday onchain activity.
+
+
 ---
 ## Base Notes
 
