@@ -39,6 +39,29 @@ Base is an Ethereum Layer 2 blockchain built on the OP Stack and incubated by Co
 - Rainbow
 - Zerion
 
+## Wallet Notes
+
+### MetaMask
+
+Popular EVM wallet commonly used for interacting with decentralized applications.
+
+### Rabby Wallet
+
+Known for improved transaction simulation and security-focused UX.
+
+### Rainbow
+
+Mobile-focused wallet with a clean interface and NFT support.
+
+### Zerion
+
+Portfolio tracking wallet with integrated DeFi functionality.
+
+---
+
+Different wallets offer different strengths depending on user preferences and workflows.
+
+
 ---
 ## Bridges
 
