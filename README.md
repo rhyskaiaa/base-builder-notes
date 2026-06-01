@@ -470,5 +470,5 @@ This repository is a collection of learning notes, ecosystem discoveries, and on
 
 The goal is to continuously explore new tools, applications, and technologies within the Ethereum Layer 2 ecosystem while improving practical Web3 knowledge over time.
 
----
+
 - Developed by Coinbase
