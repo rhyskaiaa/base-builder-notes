@@ -53,6 +53,18 @@ Base is an Ethereum Layer 2 blockchain built on the OP Stack and incubated by Co
 - Polymer
 - LayerZero - https://layerzero.network
 
+## RPC Providers
+
+* Alchemy
+* Infura
+* QuickNode
+* Ankr
+
+---
+
+RPC providers allow applications and wallets to interact with the Base blockchain network.
+
+
 ---
 ## Base Ecosystem Apps
 
