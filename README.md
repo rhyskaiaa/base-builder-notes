@@ -191,6 +191,17 @@ These tools are commonly used for building, testing, and deploying applications 
 
 - Basescan
 
+## Explorer Tools
+
+* Basescan — view transactions, contracts, and wallet activity on Base
+* Block explorers help track onchain activity in real time
+* Useful for debugging smart contracts and verifying deployments
+
+---
+
+Explorers are essential for transparency and development on any blockchain network.
+
+
 ---
 ## NFT Platforms
 
