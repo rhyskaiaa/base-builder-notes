@@ -69,6 +69,25 @@ Different wallets offer different strengths depending on user preferences and wo
 - Relay
 - Stargate — cross-chain liquidity transfer protocol
 
+## Bridge Notes
+
+### Jumper Exchange
+
+Aggregator that helps route cross-chain transfers across multiple liquidity sources.
+
+### Relay
+
+Focused on fast and simplified asset transfers between chains.
+
+### Stargate
+
+Cross-chain liquidity protocol designed for native asset transfers.
+
+---
+
+Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems like Base.
+
+
 ---
 ## Infrastructure
 
