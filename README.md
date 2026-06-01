@@ -395,6 +395,17 @@ These are useful beginner-friendly projects for learning smart contract developm
 - ENS
 - Onchain reputation
 
+## Onchain Identity
+
+* ENS (Ethereum Name Service) — human-readable wallet names
+* Onchain reputation systems — track user activity and credibility
+* Base social identity is growing through apps like Farcaster
+
+---
+
+Identity onchain helps users build persistent presence across Web3 applications.
+
+
 ---
 ## Governance
 
