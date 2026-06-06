@@ -228,6 +228,22 @@ Explorers are essential for transparency and development on any blockchain netwo
 
 - Farcaster
 
+## Creator Economy
+
+Base supports creators through onchain tools and platforms that enable direct engagement with communities.
+
+Examples include:
+
+* NFT collections
+* Digital collectibles
+* Onchain content publishing
+* Community-driven memberships
+
+---
+
+The creator economy on Base aims to provide new ways for artists, developers, and communities to monetize their work.
+
+
 ---
 ## Wallet Features
 
