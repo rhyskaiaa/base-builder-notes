@@ -256,6 +256,20 @@ It enables:
 
 This makes it a strong foundation for the next wave of decentralized applications.
 
+## Common Use Cases
+
+* Sending low-cost transactions
+* Trading on decentralized exchanges
+* Minting and collecting NFTs
+* Participating in onchain communities
+* Deploying smart contracts
+* Building decentralized applications
+
+---
+
+Base supports a wide range of activities for both users and developers.
+
+
 
 ## Roadmap
 
