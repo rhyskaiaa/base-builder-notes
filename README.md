@@ -234,6 +234,22 @@ Explorers are essential for transparency and development on any blockchain netwo
 - Smart wallets
 - Gas abstraction
 
+## Account Abstraction
+
+Account abstraction improves wallet usability by making blockchain interactions more user-friendly.
+
+Benefits include:
+
+* Simplified onboarding
+* Flexible transaction payments
+* Enhanced wallet recovery options
+* Better user experience for applications
+
+---
+
+Account abstraction aims to make Web3 interactions feel more like traditional applications while preserving self-custody.
+
+
 ---
 ## Learning Goals
 
