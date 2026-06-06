@@ -458,6 +458,22 @@ Identity onchain helps users build persistent presence across Web3 applications.
 - DAOs
 - Community voting
 
+## Governance Basics
+
+Governance allows communities to participate in decision-making processes for protocols and organizations.
+
+Common governance activities include:
+
+* Voting on proposals
+* Allocating community resources
+* Electing contributors or delegates
+* Shaping protocol upgrades
+
+---
+
+Many Web3 communities use DAOs to coordinate decisions in a transparent and decentralized manner.
+
+
 ---
 ## Stablecoins
 
