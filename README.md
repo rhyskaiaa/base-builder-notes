@@ -182,6 +182,22 @@ These categories show how Base is expanding across different onchain use cases.
 
 Base continues to grow its DeFi ecosystem with lending, liquidity, and trading protocols built for lower fees and faster transactions.
 
+## DeFi Fundamentals
+
+Decentralized Finance (DeFi) refers to financial applications built on blockchain networks without traditional intermediaries.
+
+Core concepts include:
+
+* Lending and borrowing assets
+* Decentralized exchanges (DEXs)
+* Liquidity provision
+* Yield generation strategies
+
+---
+
+DeFi enables open financial systems that operate globally and without centralized control.
+
+
 ---
 ## Development Tools
 
