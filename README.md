@@ -297,6 +297,22 @@ Benefits include:
 
 Account abstraction aims to make Web3 interactions feel more like traditional applications while preserving self-custody.
 
+## Smart Wallet Benefits
+
+Smart wallets introduce features that can improve usability and security.
+
+Examples include:
+
+* Social recovery mechanisms
+* Batch transactions
+* Sponsored transactions
+* Custom spending controls
+
+---
+
+These features help make blockchain applications more accessible to everyday users.
+
+
 
 ---
 ## Learning Goals
