@@ -455,6 +455,22 @@ This workflow helps ensure safe and structured smart contract development on Bas
 - Optimistic rollups
 - Layer 2 scaling
 
+## MEV Basics
+
+MEV (Maximal Extractable Value) refers to the value that can be captured by reordering, including, or excluding transactions within a block.
+
+Common topics related to MEV:
+
+* Arbitrage opportunities
+* Liquidations
+* Transaction ordering
+* Searchers and builders
+
+---
+
+MEV is an important concept in blockchain networks because it affects market efficiency, transaction execution, and protocol design.
+
+
 ## Ethereum and Base
 
 Base is a Layer 2 network that extends Ethereum by providing lower transaction costs and higher throughput.
