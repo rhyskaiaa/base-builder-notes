@@ -423,6 +423,22 @@ This workflow helps ensure safe and structured smart contract development on Bas
 - Optimistic rollups
 - Layer 2 scaling
 
+## Ethereum and Base
+
+Base is a Layer 2 network that extends Ethereum by providing lower transaction costs and higher throughput.
+
+Key points:
+
+* Ethereum serves as the settlement layer
+* Base processes transactions more efficiently
+* Security is ultimately tied to Ethereum
+* Assets can move between Ethereum and Base through bridges
+
+---
+
+Layer 2 networks help scale Ethereum while maintaining compatibility with its ecosystem.
+
+
 ---
 ## Smart Contracts
 
