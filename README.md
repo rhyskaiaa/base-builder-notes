@@ -61,7 +61,6 @@ Portfolio tracking wallet with integrated DeFi functionality.
 
 Different wallets offer different strengths depending on user preferences and workflows.
 
-
 ---
 ## Bridges
 
@@ -87,7 +86,6 @@ Cross-chain liquidity protocol designed for native asset transfers.
 
 Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems like Base.
 
-
 ---
 ## Infrastructure
 
@@ -105,7 +103,6 @@ Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems 
 ---
 
 RPC providers allow applications and wallets to interact with the Base blockchain network.
-
 
 ---
 ## Base Ecosystem Apps
@@ -134,7 +131,6 @@ The Base ecosystem can be understood in layers:
 ---
 
 Each layer supports the growth of applications and users within the Base ecosystem.
-
 
 ## Analytics & Tools
 
@@ -168,7 +164,6 @@ Analytics platforms help track ecosystem growth, protocol activity, and onchain 
 ---
 
 These categories show how Base is expanding across different onchain use cases.
-
 
 ## DeFi on Base
 
@@ -212,8 +207,6 @@ Important concepts:
 
 Higher liquidity generally leads to smoother trading experiences and more efficient markets.
 
-
-
 ---
 ## Development Tools
 
@@ -232,7 +225,6 @@ Higher liquidity generally leads to smoother trading experiences and more effici
 
 These tools are commonly used for building, testing, and deploying applications within the Base ecosystem.
 
-
 ---
 ## Explorers
 
@@ -247,7 +239,6 @@ These tools are commonly used for building, testing, and deploying applications 
 ---
 
 Explorers are essential for transparency and development on any blockchain network.
-
 
 ---
 ## NFT Platforms
@@ -274,7 +265,6 @@ Examples include:
 ---
 
 The creator economy on Base aims to provide new ways for artists, developers, and communities to monetize their work.
-
 
 ---
 ## Wallet Features
@@ -312,8 +302,6 @@ Examples include:
 
 These features help make blockchain applications more accessible to everyday users.
 
-
-
 ---
 ## Learning Goals
 
@@ -348,8 +336,6 @@ This makes it a strong foundation for the next wave of decentralized application
 ---
 
 Base supports a wide range of activities for both users and developers.
-
-
 
 ## Roadmap
 
