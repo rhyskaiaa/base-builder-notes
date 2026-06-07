@@ -197,6 +197,22 @@ Core concepts include:
 
 DeFi enables open financial systems that operate globally and without centralized control.
 
+## Liquidity Basics
+
+Liquidity refers to the availability of assets that can be traded without causing significant price changes.
+
+Important concepts:
+
+* Liquidity pools
+* Trading pairs
+* Slippage
+* Market depth
+
+---
+
+Higher liquidity generally leads to smoother trading experiences and more efficient markets.
+
+
 
 ---
 ## Development Tools
