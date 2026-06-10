@@ -240,6 +240,27 @@ These tools are commonly used for building, testing, and deploying applications 
 
 Explorers are essential for transparency and development on any blockchain network.
 
+## Indexing Services
+
+Indexing services organize blockchain data so applications can retrieve information efficiently.
+
+Common uses include:
+
+* Wallet activity tracking
+* Transaction history
+* NFT metadata queries
+* Analytics dashboards
+
+Examples:
+
+* The Graph
+* Goldsky
+
+---
+
+Indexing solutions help developers build responsive applications without directly processing all blockchain data.
+
+
 ---
 ## NFT Platforms
 
