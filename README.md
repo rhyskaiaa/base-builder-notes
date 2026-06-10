@@ -104,6 +104,29 @@ Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems 
 
 RPC providers allow applications and wallets to interact with the Base blockchain network.
 
+## Node Providers
+
+Node providers offer blockchain infrastructure that allows developers to interact with networks without running their own nodes.
+
+Benefits include:
+
+* Faster development setup
+* Reliable network access
+* Scalable infrastructure
+* Monitoring and analytics tools
+
+Examples:
+
+* Alchemy
+* QuickNode
+* Infura
+* Ankr
+
+---
+
+Node providers simplify application development by managing blockchain infrastructure on behalf of developers.
+
+
 ---
 ## Base Ecosystem Apps
 
