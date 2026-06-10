@@ -592,6 +592,22 @@ Base is built on the OP Stack, a modular framework developed by Optimism for sca
 
 This architecture is what allows Base to scale while staying aligned with Ethereum.
 
+## Oracle Networks
+
+Oracle networks provide external data to smart contracts that cannot access information outside the blockchain on their own.
+
+Common use cases:
+
+* Price feeds
+* Weather data
+* Sports results
+* Real-world event verification
+
+---
+
+Oracles help connect blockchain applications with real-world information.
+
+
 ## Personal Notes
 
 This repository is a collection of learning notes, ecosystem discoveries, and onchain development resources related to Base.
