@@ -248,6 +248,23 @@ Higher liquidity generally leads to smoother trading experiences and more effici
 
 These tools are commonly used for building, testing, and deploying applications within the Base ecosystem.
 
+## Developer APIs
+
+Developer APIs help applications interact with blockchain networks and onchain data.
+
+Common API capabilities:
+
+* Wallet balance retrieval
+* Transaction history queries
+* NFT metadata access
+* Token price information
+* Smart contract interactions
+
+---
+
+APIs enable developers to build applications more efficiently by providing structured access to blockchain data and services.
+
+
 ---
 ## Explorers
 
