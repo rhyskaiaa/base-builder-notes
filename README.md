@@ -410,6 +410,23 @@ Base supports a wide range of activities for both users and developers.
 
 This repository will keep evolving as I learn and build within the Base ecosystem.
 
+## Grants and Ecosystem Funding
+
+Many blockchain ecosystems provide funding opportunities to support developers, creators, and community initiatives.
+
+Potential areas of support include:
+
+* Open-source development
+* Educational content
+* Infrastructure projects
+* Developer tooling
+* Community growth initiatives
+
+---
+
+Grants help accelerate innovation by providing resources to individuals and teams building within the ecosystem.
+
+
 
 ## Learning Progress
 
