@@ -537,6 +537,28 @@ The sequencer is a core component of Base’s architecture that determines how t
 
 In Base, the sequencer plays a critical role in scaling Ethereum while maintaining security through eventual settlement on Layer 1.
 
+## Security Model of Base
+
+Base is a Layer 2 built on Ethereum, which means its security model depends on Ethereum for final settlement.
+
+### Key idea:
+- Base executes transactions off-chain for speed
+- Ethereum finalizes and secures the data
+
+### Security properties:
+- Transaction data is ultimately recorded on Ethereum
+- Users can rely on Ethereum for dispute resolution
+- Base inherits Ethereum’s decentralized security guarantees
+
+### What this means in practice:
+- Even if the sequencer is centralized, funds remain secured by Ethereum
+- Users are protected by Layer 1 settlement rules
+- Final state is always verifiable on Ethereum
+
+---
+
+Base achieves scalability by moving execution off-chain while preserving Ethereum’s trust model for finality.
+
 ## MEV Basics
 
 MEV (Maximal Extractable Value) refers to the value that can be captured by reordering, including, or excluding transactions within a block.
