@@ -252,22 +252,6 @@ Each layer supports the growth of applications and users within the Base ecosyst
 
 Analytics platforms help track ecosystem growth, protocol activity, and onchain metrics across Base.
 
-### DeFi
-- Uniswap
-- Aerodrome
-- Moonwell
-
-### NFTs
-- Zora
-- OpenSea
-
-### Infrastructure
-- LayerZero
-- LI.FI
-- Polymer
-
-These categories show how Base is expanding across different onchain use cases.
-
 ## DeFi on Base
 
 - Aerodrome
