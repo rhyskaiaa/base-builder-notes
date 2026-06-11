@@ -682,6 +682,20 @@ Key points:
 - Security is ultimately tied to Ethereum
 - Assets can move between Ethereum and Base through bridges
 
+## Base vs Ethereum
+
+| Feature | Ethereum | Base |
+|--------|----------|------|
+| Speed | Slower | Faster |
+| Fees | Higher | Lower |
+| Execution | On-chain | Off-chain (sequencer) |
+| Security | L1 native | Inherited from Ethereum |
+| Scalability | Limited | High |
+
+---
+
+Base extends Ethereum by improving scalability while preserving security through L1 settlement.
+
 ---
 ## Smart Contracts
 
