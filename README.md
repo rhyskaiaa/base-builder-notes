@@ -78,6 +78,7 @@ Base is an Ethereum Layer 2 blockchain built on the OP Stack and incubated by Co
 
 - https://base.org
 - https://guild.xyz/base
+- https://docs.base.org
 
 ---
 ## Wallets
@@ -132,7 +133,7 @@ Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems 
 ## Infrastructure
 
 - LI.FI - https://li.fi
-- Polymer
+- Polymer — https://polymerlabs.org
 - LayerZero - https://layerzero.network
 
 ## RPC Providers
@@ -160,16 +161,14 @@ Node providers simplify application development by managing blockchain infrastru
 ---
 ## Development Tools
 
-- Foundry
-- Hardhat
+- Foundry — https://book.getfoundry.sh
+- Hardhat — https://hardhat.org
 
 ## Developer Stack
 
-- Solidity
+- Solidity — https://soliditylang.org
 - Ethers.js
-- Wagmi
-- Viem
-- OpenZeppelin
+- OpenZeppelin — https://openzeppelin.com
 
 These tools are commonly used for building, testing, and deploying applications within the Base ecosystem.
 
@@ -233,10 +232,10 @@ Each layer supports the growth of applications and users within the Base ecosyst
 
 ## Analytics & Tools
 
-- Dune Analytics
-- DefiLlama
-- Basescan
-- Token Terminal
+- Dune Analytics — https://dune.com
+- DefiLlama — https://defillama.com
+- Basescan — https://basescan.org
+- Token Terminal — https://tokenterminal.com
 
 Analytics platforms help track ecosystem growth, protocol activity, and onchain metrics across Base.
 
