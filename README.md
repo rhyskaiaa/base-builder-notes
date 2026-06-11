@@ -559,6 +559,31 @@ Base is a Layer 2 built on Ethereum, which means its security model depends on E
 
 Base achieves scalability by moving execution off-chain while preserving Ethereum’s trust model for finality.
 
+## Account Abstraction on Base
+
+Account abstraction improves how users interact with blockchain applications by making wallets more flexible and programmable.
+
+### Traditional wallets (EOAs):
+- Require users to sign every transaction
+- Must hold native gas tokens (ETH)
+- Limited automation and flexibility
+
+### Account abstraction wallets (smart wallets):
+- Can sponsor gas fees for users
+- Allow batch transactions
+- Enable social recovery options
+- Improve onboarding experience
+
+### Why it matters on Base:
+- Makes onboarding easier for new users
+- Enables gasless transactions for apps
+- Supports better UX for consumer applications
+- Powers modern smart wallet systems
+
+---
+
+Account abstraction helps transform blockchain interactions into a more application-like experience while preserving self-custody.
+
 ## MEV Basics
 
 MEV (Maximal Extractable Value) refers to the value that can be captured by reordering, including, or excluding transactions within a block.
