@@ -701,6 +701,24 @@ Base is built on the OP Stack, a modular framework developed by Optimism for sca
 
 This architecture is what allows Base to scale while staying aligned with Ethereum.
 
+## Cross-Chain Messaging
+
+Cross-chain messaging allows applications on different blockchain networks to communicate and exchange information.
+
+Common use cases:
+
+* Asset transfers
+* Governance coordination
+* Cross-chain applications
+* Data synchronization between networks
+
+Examples of protocols involved in cross-chain communication include LayerZero and Polymer.
+
+---
+
+Cross-chain messaging helps create a more connected blockchain ecosystem by enabling interoperability between networks.
+
+
 ## Oracle Networks
 
 Oracle networks provide external data to smart contracts that cannot access information outside the blockchain on their own.
