@@ -278,6 +278,12 @@ Core concepts include:
 
 DeFi enables open financial systems that operate globally and without centralized control.
 
+### Real-world example
+
+- On Base, users can lend USDC on protocols like Moonwell to earn yield
+- Traders use Uniswap on Base to swap tokens without centralized exchanges
+- Liquidity providers deposit tokens into pools to earn trading fees
+
 ## Liquidity Basics
 
 Liquidity refers to the availability of assets that can be traded without causing significant price changes.
