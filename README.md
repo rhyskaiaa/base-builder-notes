@@ -537,6 +537,14 @@ Key points:
 - OP Stack — Modular framework used to build optimistic rollups like Base
 - Gas Fees — Cost required to perform transactions on a blockchain
 - Smart Contract — Self-executing code deployed onchain
+- Blockchain — A decentralized ledger that records transactions across multiple computers
+- EVM (Ethereum Virtual Machine) — The runtime environment for smart contracts on Ethereum and L2s like Base
+- Sequencer — The component in rollups like Base that orders transactions before submitting to Ethereum
+- Bridge — A protocol that allows assets and data to move between blockchains
+- RPC (Remote Procedure Call) — A way for apps to communicate with blockchain nodes
+- Node — A computer that stores and validates blockchain data
+- dApp — A decentralized application built on blockchain networks
+- Liquidity — The ease of trading assets without affecting price significantly
 
 ---
 ## Identity
