@@ -13,26 +13,24 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 - Infrastructure
 - RPC Providers
 - Node Providers
-- Base Ecosystem Apps
-- Ecosystem Overview
-- Base Ecosystem Map
-- Analytics & Tools
-- DeFi on Base
-- DeFi Fundamentals
-- Liquidity Basics
 - Development Tools
 - Developer Stack
 - Developer APIs
 - Explorers
 - Explorer Tools
 - Indexing Services
+- Base Ecosystem Map
+- Analytics & Tools
+- DeFi on Base
+- DeFi Fundamentals
+- Liquidity Basics
 - NFT Platforms
 - Creator Economy
 - Wallet Features
 - Account Abstraction
 - Smart Wallet Benefits
 - Learning Goals
-- Why Base Matters
+- Why Base Matters?
 - Common Use Cases
 - Roadmap
 - Grants and Ecosystem Funding
@@ -122,15 +120,12 @@ Different wallets offer different strengths depending on user preferences and wo
 ## Bridge Notes
 
 ### Jumper Exchange
-
 Aggregator that helps route cross-chain transfers across multiple liquidity sources.
 
 ### Relay
-
 Focused on fast and simplified asset transfers between chains.
 
 ### Stargate
-
 Cross-chain liquidity protocol designed for native asset transfers.
 
 ---
@@ -150,6 +145,7 @@ Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems 
 - Infura
 - QuickNode
 - Ankr
+
 ---
 
 RPC providers allow applications and wallets to interact with the Base blockchain network.
@@ -166,105 +162,8 @@ Benefits include:
 - Monitoring and analytics tools
 
 ---
+
 Node providers simplify application development by managing blockchain infrastructure on behalf of developers.
-
----
-## Base Ecosystem Apps
-
-- Farcaster
-- Zora
-- Friend.tech
-
-## Ecosystem Overview
-
-### Social
-
-- Farcaster
-- Friend.tech
-
-## Base Ecosystem Map
-
-The Base ecosystem can be understood in layers:
-
-- **Infrastructure** → RPC providers, bridges, OP Stack
-- **Development** → Smart contracts, tooling, frameworks
-- **Finance (DeFi)** → Lending, swaps, liquidity protocols
-- **Social** → Onchain identity and social apps
-- **NFTs & Creator Economy** → Minting platforms and marketplaces
-
----
-
-Each layer supports the growth of applications and users within the Base ecosystem.
-
-## Analytics & Tools
-
-- Dune Analytics
-- DefiLlama
-- Basescan
-- Token Terminal
-
----
-Analytics platforms help track ecosystem growth, protocol activity, and onchain metrics across Base.
-
-### DeFi
-
-- Uniswap
-- Aerodrome
-- Moonwell
-
-### NFTs
-
-- Zora
-- OpenSea
-
-### Infrastructure
-
-- LayerZero
-- LI.FI
-- Polymer
----
-
-These categories show how Base is expanding across different onchain use cases.
-
-## DeFi on Base
-
-- Aerodrome
-- Uniswap
-- Moonwell
-- Extra Finance
-- Seamless Protocol
-
----
-
-Base continues to grow its DeFi ecosystem with lending, liquidity, and trading protocols built for lower fees and faster transactions.
-
-## DeFi Fundamentals
-
-Decentralized Finance (DeFi) refers to financial applications built on blockchain networks without traditional intermediaries.
-
-Core concepts include:
-
-- Lending and borrowing assets
-- Decentralized exchanges (DEXs)
-- Liquidity provision
-- Yield generation strategies
----
-
-DeFi enables open financial systems that operate globally and without centralized control.
-
-## Liquidity Basics
-
-Liquidity refers to the availability of assets that can be traded without causing significant price changes.
-
-Important concepts:
-
-- Liquidity pools
-- Trading pairs
-- Slippage
-- Market depth
----
-
-Higher liquidity generally leads to smoother trading experiences and more efficient markets.
 
 ---
 ## Development Tools
@@ -295,6 +194,7 @@ Common API capabilities:
 - NFT metadata access
 - Token price information
 - Smart contract interactions
+
 ---
 
 APIs enable developers to build applications more efficiently by providing structured access to blockchain data and services.
@@ -309,6 +209,7 @@ APIs enable developers to build applications more efficiently by providing struc
 - Basescan — view transactions, contracts, and wallet activity on Base
 - Block explorers help track onchain activity in real time
 - Useful for debugging smart contracts and verifying deployments
+
 ---
 
 Explorers are essential for transparency and development on any blockchain network.
@@ -334,16 +235,97 @@ Examples:
 Indexing solutions help developers build responsive applications without directly processing all blockchain data.
 
 ---
+## Base Ecosystem Map
+
+The Base ecosystem can be understood in layers:
+
+- Infrastructure → RPC providers, bridges, OP Stack
+- Development → Smart contracts, tooling, frameworks
+- Finance (DeFi) → Lending, swaps, liquidity protocols
+- Social → Onchain identity and social apps
+- NFTs & Creator Economy → Minting platforms and marketplaces
+
+---
+
+Each layer supports the growth of applications and users within the Base ecosystem.
+
+## Analytics & Tools
+
+- Dune Analytics
+- DefiLlama
+- Basescan
+- Token Terminal
+
+---
+Analytics platforms help track ecosystem growth, protocol activity, and onchain metrics across Base.
+
+### DeFi
+- Uniswap
+- Aerodrome
+- Moonwell
+
+### NFTs
+- Zora
+- OpenSea
+
+### Infrastructure
+- LayerZero
+- LI.FI
+- Polymer
+
+---
+
+These categories show how Base is expanding across different onchain use cases.
+
+## DeFi on Base
+
+- Aerodrome
+- Uniswap
+- Moonwell
+- Extra Finance
+- Seamless Protocol
+
+---
+
+Base continues to grow its DeFi ecosystem with lending, liquidity, and trading protocols built for lower fees and faster transactions.
+
+## DeFi Fundamentals
+
+Decentralized Finance (DeFi) refers to financial applications built on blockchain networks without traditional intermediaries.
+
+Core concepts include:
+
+- Lending and borrowing assets
+- Decentralized exchanges (DEXs)
+- Liquidity provision
+- Yield generation strategies
+
+---
+
+DeFi enables open financial systems that operate globally and without centralized control.
+
+## Liquidity Basics
+
+Liquidity refers to the availability of assets that can be traded without causing significant price changes.
+
+Important concepts:
+
+- Liquidity pools
+- Trading pairs
+- Slippage
+- Market depth
+
+---
+
+Higher liquidity generally leads to smoother trading experiences and more efficient markets.
+
+---
 ## NFT Platforms
 
 - Zora
 - OpenSea
 
 ---
-## Social
-
-- Farcaster
-
 ## Creator Economy
 
 Base supports creators through onchain tools and platforms that enable direct engagement with communities.
@@ -427,9 +409,6 @@ This makes it a strong foundation for the next wave of decentralized application
 - Building decentralized applications
 
 ---
-
-Base supports a wide range of activities for both users and developers.
-
 ## Roadmap
 
 - Continue expanding Base ecosystem notes
@@ -439,9 +418,6 @@ Base supports a wide range of activities for both users and developers.
 - Document real onchain experiments and learnings
 
 ---
-
-This repository will keep evolving as I learn and build within the Base ecosystem.
-
 ## Grants and Ecosystem Funding
 
 Many blockchain ecosystems provide funding opportunities to support developers, creators, and community initiatives.
@@ -455,9 +431,6 @@ Potential areas of support include:
 - Community growth initiatives
 
 ---
-
-Grants help accelerate innovation by providing resources to individuals and teams building within the ecosystem.
-
 ## Hackathons and Builder Events
 
 Hackathons and builder events provide opportunities to learn, collaborate, and showcase projects.
@@ -471,9 +444,6 @@ Benefits include:
 - Potential funding opportunities
 
 ---
-
-Builder events help grow the ecosystem by encouraging innovation and collaboration.
-
 ## Community Resources
 
 Community resources help users stay informed and connected within the ecosystem.
@@ -487,9 +457,6 @@ Useful resources include:
 - Social platforms and discussion groups
 
 ---
-
-Active communities help users learn faster, discover opportunities, and collaborate on projects.
-
 ## Learning Progress
 
 - Started exploring Base ecosystem fundamentals
@@ -497,10 +464,6 @@ Active communities help users learn faster, discover opportunities, and collabor
 - Practicing smart contract deployment on testnets
 - Exploring onchain social applications like Farcaster
 - Gradually building familiarity with DeFi protocols
-
----
-
-This section will be updated as new skills and experiments are completed.
 
 ---
 ## Testing
@@ -517,10 +480,6 @@ Base Sepolia is the main testnet used for experimenting with smart contracts bef
 - Public Base faucet resources (when available)
 
 ---
-
-Testnets are essential for safe development and learning without risking real funds.
-
----
 ## Security
 
 - Hardware wallets
@@ -533,10 +492,6 @@ Testnets are essential for safe development and learning without risking real fu
 - Avoid connecting wallets to unknown websites
 - Keep seed phrases offline
 - Revoke unused wallet permissions regularly
-
----
-
-Staying secure onchain is essential when exploring new ecosystems and decentralized applications.
 
 ---
 ## Gas
@@ -568,10 +523,6 @@ Staying secure onchain is essential when exploring new ecosystems and decentrali
 - Iterate and improve before mainnet deployment
 
 ---
-
-This workflow helps ensure safe and structured smart contract development on Base.
-
----
 ## Rollups
 
 - Optimistic rollups
@@ -589,10 +540,6 @@ Common topics related to MEV:
 - Searchers and builders
 
 ---
-
-MEV is an important concept in blockchain networks because it affects market efficiency, transaction execution, and protocol design.
-
-
 ## Ethereum and Base
 
 Base is a Layer 2 network that extends Ethereum by providing lower transaction costs and higher throughput.
@@ -603,10 +550,6 @@ Key points:
 - Base processes transactions more efficiently
 - Security is ultimately tied to Ethereum
 - Assets can move between Ethereum and Base through bridges
-
----
-
-Layer 2 networks help scale Ethereum while maintaining compatibility with its ecosystem.
 
 ---
 ## Smart Contracts
@@ -623,9 +566,6 @@ Layer 2 networks help scale Ethereum while maintaining compatibility with its ec
 - Onchain tipping application
 
 ---
-
-These are useful beginner-friendly projects for learning smart contract development on Base.
-
 ## Key Terms
 
 - Layer 2 — A scaling solution built on top of Ethereum to improve speed and reduce costs
@@ -647,10 +587,6 @@ These are useful beginner-friendly projects for learning smart contract developm
 - Base social identity is growing through apps like Farcaster
 
 ---
-
-Identity onchain helps users build persistent presence across Web3 applications.
-
----
 ## Governance
 
 - DAOs
@@ -668,10 +604,6 @@ Common governance activities include:
 - Shaping protocol upgrades
 
 ---
-
-Many Web3 communities use DAOs to coordinate decisions in a transparent and decentralized manner.
-
----
 ## Stablecoins
 
 - USDC — dollar-backed stablecoin
@@ -685,10 +617,6 @@ Stablecoins like USDC and DAI are widely used on Base for:
 - Liquidity provision
 - Payments and transfers
 - Reducing volatility exposure
-
----
-
-They are a key part of everyday onchain activity.
 
 ---
 ## Base Notes
@@ -706,9 +634,6 @@ A quick summary of key places to learn and build on Base:
 - Base Sepolia testnet tools
 
 ---
-
-These resources are the foundation for continuing exploration and development.
-
 ## OP Stack & Base Architecture
 
 Base is built on the OP Stack, a modular framework developed by Optimism for scaling Ethereum.
@@ -719,9 +644,6 @@ Base is built on the OP Stack, a modular framework developed by Optimism for sca
 - Designed for interoperability with other OP Stack chains
 
 ---
-
-This architecture is what allows Base to scale while staying aligned with Ethereum.
-
 ## Data Availability Basics
 
 Data availability refers to ensuring that transaction data is accessible so that blockchain networks can verify and reconstruct state changes.
@@ -734,9 +656,6 @@ Key ideas:
 - Data availability contributes to network transparency
 
 ---
-
-Reliable data availability is an important component of scalable and secure blockchain systems.
-
 ## Cross-Chain Messaging
 
 Cross-chain messaging allows applications on different blockchain networks to communicate and exchange information.
@@ -751,9 +670,6 @@ Common use cases:
 Examples of protocols involved in cross-chain communication include LayerZero and Polymer.
 
 ---
-
-Cross-chain messaging helps create a more connected blockchain ecosystem by enabling interoperability between networks.
-
 ## Oracle Networks
 
 Oracle networks provide external data to smart contracts that cannot access information outside the blockchain on their own.
@@ -766,9 +682,6 @@ Common use cases:
 - Real-world event verification
 
 ---
-
-Oracles help connect blockchain applications with real-world information.
-
 ## Personal Notes
 
 This repository is a collection of learning notes, ecosystem discoveries, and onchain development resources related to Base.
