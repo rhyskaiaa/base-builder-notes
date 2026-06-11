@@ -838,4 +838,26 @@ This repository is a collection of learning notes, ecosystem discoveries, and on
 
 The goal is to continuously explore new tools, applications, and technologies within the Ethereum Layer 2 ecosystem while improving practical Web3 knowledge over time.
 
+## 100 Commits Milestone 🎉
+
+This repository documents my structured learning journey through the Base ecosystem — from foundational concepts to advanced ideas like rollups, sequencers, account abstraction, MEV, and intent-based systems.
+
+### What this represents:
+- Consistent learning through small iterations
+- Progressive understanding of blockchain systems
+- Practical exploration of Base and Ethereum scaling
+- A personal knowledge base for building onchain applications
+
+### Core areas covered:
+- Base architecture and OP Stack
+- DeFi fundamentals and liquidity systems
+- Smart contracts and developer tooling
+- Wallet UX improvements (account abstraction)
+- Rollup mechanics and transaction flow
+- Economic design (MEV and incentives)
+
+---
+
+Built step-by-step through continuous learning, experimentation, and refinement.
+
 - Developed by Coinbase
