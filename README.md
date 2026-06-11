@@ -504,6 +504,20 @@ Base Sepolia is the main testnet used for experimenting with smart contracts bef
 - Optimistic rollups
 - Layer 2 scaling
 
+## How Transactions Work on Base
+
+When a user sends a transaction on Base, it follows this flow:
+
+- User submits transaction from wallet (e.g. MetaMask)
+- Transaction is sent to Base sequencer
+- Sequencer orders and batches transactions
+- Batch is submitted to Ethereum (Layer 1)
+- Ethereum provides final settlement and security
+
+---
+
+This architecture allows Base to be fast, cheap, and still inherit Ethereum security.
+
 ## MEV Basics
 
 MEV (Maximal Extractable Value) refers to the value that can be captured by reordering, including, or excluding transactions within a block.
