@@ -646,6 +646,30 @@ Common topics related to MEV:
 - Transaction ordering
 - Searchers and builders
 
+## Bridging Between Ethereum and Base
+
+Bridges allow assets and data to move between Ethereum (Layer 1) and Base (Layer 2).
+
+### How it works:
+- User deposits assets on Ethereum
+- Bridge contract locks or verifies funds on L1
+- Equivalent assets are minted or credited on Base
+- Users can later withdraw back to Ethereum
+
+### Key characteristics:
+- Transfers are not instant due to security checks
+- Withdrawals require challenge periods in optimistic rollups
+- Bridges rely on smart contracts for verification
+
+### Why it matters:
+- Enables liquidity flow between L1 and L2
+- Allows users to access lower fees on Base
+- Expands Ethereum ecosystem usability
+
+---
+
+Bridging is the core mechanism that connects Base to Ethereum’s liquidity and security layer.
+
 ---
 ## Ethereum and Base
 
