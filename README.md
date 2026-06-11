@@ -402,7 +402,7 @@ These features help make blockchain applications more accessible to everyday use
 - Learn account abstraction
 - Explore onchain social apps
 
-## Why Base Matters
+## Why Base Matters?
 
 Base is designed to make onchain apps more accessible by reducing costs and improving scalability.
 
