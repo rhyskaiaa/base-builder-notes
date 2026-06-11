@@ -4,17 +4,68 @@ Documenting useful Base ecosystem resources, tools, and learning notes.
 
 ## Table of Contents
 
-* What is Base
-* Wallets
-* Bridges
-* Infrastructure
-* Base Ecosystem Apps
-* DeFi on Base
-* Developer Stack
-* Security Tips
-* Testnet & Faucets
-* Learning Progress
-* Roadmap
+- What is Base
+- Useful Links
+- Wallets
+- Wallet Notes
+- Bridges
+- Bridge Notes
+- Infrastructure
+- RPC Providers
+- Node Providers
+- Base Ecosystem Apps
+- Ecosystem Overview
+- Base Ecosystem Map
+- Analytics & Tools
+- DeFi on Base
+- DeFi Fundamentals
+- Liquidity Basics
+- Development Tools
+- Developer Stack
+- Developer APIs
+- Explorers
+- Explorer Tools
+- Indexing Services
+- NFT Platforms
+- Creator Economy
+- Wallet Features
+- Account Abstraction
+- Smart Wallet Benefits
+- Learning Goals
+- Why Base Matters
+- Common Use Cases
+- Roadmap
+- Grants and Ecosystem Funding
+- Hackathons and Builder Events
+- Community Resources
+- Learning Progress
+- Testing
+- Testnet & Faucets
+- Security
+- Security Tips
+- Gas
+- Learning Resources
+- Development Workflow
+- Base Development Workflow
+- Rollups
+- MEV Basics
+- Ethereum and Base
+- Smart Contracts
+- Smart Contract Ideas
+- Key Terms
+- Identity
+- Onchain Identity
+- Governance
+- Governance Basics
+- Stablecoins
+- Stablecoin Usage on Base
+- Base Notes
+- Resources Recap
+- OP Stack & Base Architecture
+- Data Availability Basics
+- Cross-Chain Messaging
+- Oracle Networks
+- Personal Notes
 
 ## What is Base?
 
