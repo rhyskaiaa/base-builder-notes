@@ -106,8 +106,6 @@ Mobile-focused wallet with a clean interface and NFT support.
 
 Portfolio tracking wallet with integrated DeFi functionality.
 
----
-
 Different wallets offer different strengths depending on user preferences and workflows.
 
 ---
@@ -128,8 +126,6 @@ Focused on fast and simplified asset transfers between chains.
 ### Stargate
 Cross-chain liquidity protocol designed for native asset transfers.
 
----
-
 Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems like Base.
 
 ---
@@ -146,8 +142,6 @@ Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems 
 - QuickNode
 - Ankr
 
----
-
 RPC providers allow applications and wallets to interact with the Base blockchain network.
 
 ## Node Providers
@@ -160,8 +154,6 @@ Benefits include:
 - Reliable network access
 - Scalable infrastructure
 - Monitoring and analytics tools
-
----
 
 Node providers simplify application development by managing blockchain infrastructure on behalf of developers.
 
@@ -179,8 +171,6 @@ Node providers simplify application development by managing blockchain infrastru
 - Viem
 - OpenZeppelin
 
----
-
 These tools are commonly used for building, testing, and deploying applications within the Base ecosystem.
 
 ## Developer APIs
@@ -195,8 +185,6 @@ Common API capabilities:
 - Token price information
 - Smart contract interactions
 
----
-
 APIs enable developers to build applications more efficiently by providing structured access to blockchain data and services.
 
 ---
@@ -209,8 +197,6 @@ APIs enable developers to build applications more efficiently by providing struc
 - Basescan — view transactions, contracts, and wallet activity on Base
 - Block explorers help track onchain activity in real time
 - Useful for debugging smart contracts and verifying deployments
-
----
 
 Explorers are essential for transparency and development on any blockchain network.
 
@@ -230,8 +216,6 @@ Examples:
 - The Graph
 - Goldsky
 
----
-
 Indexing solutions help developers build responsive applications without directly processing all blockchain data.
 
 ---
@@ -245,8 +229,6 @@ The Base ecosystem can be understood in layers:
 - Social → Onchain identity and social apps
 - NFTs & Creator Economy → Minting platforms and marketplaces
 
----
-
 Each layer supports the growth of applications and users within the Base ecosystem.
 
 ## Analytics & Tools
@@ -256,7 +238,6 @@ Each layer supports the growth of applications and users within the Base ecosyst
 - Basescan
 - Token Terminal
 
----
 Analytics platforms help track ecosystem growth, protocol activity, and onchain metrics across Base.
 
 ### DeFi
@@ -273,8 +254,6 @@ Analytics platforms help track ecosystem growth, protocol activity, and onchain 
 - LI.FI
 - Polymer
 
----
-
 These categories show how Base is expanding across different onchain use cases.
 
 ## DeFi on Base
@@ -284,8 +263,6 @@ These categories show how Base is expanding across different onchain use cases.
 - Moonwell
 - Extra Finance
 - Seamless Protocol
-
----
 
 Base continues to grow its DeFi ecosystem with lending, liquidity, and trading protocols built for lower fees and faster transactions.
 
@@ -300,8 +277,6 @@ Core concepts include:
 - Liquidity provision
 - Yield generation strategies
 
----
-
 DeFi enables open financial systems that operate globally and without centralized control.
 
 ## Liquidity Basics
@@ -314,8 +289,6 @@ Important concepts:
 - Trading pairs
 - Slippage
 - Market depth
-
----
 
 Higher liquidity generally leads to smoother trading experiences and more efficient markets.
 
@@ -337,8 +310,6 @@ Examples include:
 - Onchain content publishing
 - Community-driven memberships
 
----
-
 The creator economy on Base aims to provide new ways for artists, developers, and communities to monetize their work.
 
 ---
@@ -358,8 +329,6 @@ Benefits include:
 - Enhanced wallet recovery options
 - Better user experience for applications
 
----
-
 Account abstraction aims to make Web3 interactions feel more like traditional applications while preserving self-custody.
 
 ## Smart Wallet Benefits
@@ -372,8 +341,6 @@ Examples include:
 - Batch transactions
 - Sponsored transactions
 - Custom spending controls
-
----
 
 These features help make blockchain applications more accessible to everyday users.
 
@@ -394,8 +361,6 @@ It enables:
 - Easier onboarding for developers
 - Faster experimentation for new apps
 - Strong alignment with Ethereum security
-
----
 
 This makes it a strong foundation for the next wave of decentralized applications.
 
