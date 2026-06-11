@@ -518,6 +518,25 @@ When a user sends a transaction on Base, it follows this flow:
 
 This architecture allows Base to be fast, cheap, and still inherit Ethereum security.
 
+## Sequencer in Base
+
+The sequencer is a core component of Base’s architecture that determines how transactions are ordered and processed before being finalized on Ethereum.
+
+### What it does:
+- Receives user transactions from wallets and applications
+- Orders transactions in a specific sequence
+- Executes transactions off-chain for fast confirmation
+- Batches transactions together before sending them to Ethereum
+
+### Why it matters:
+- Provides fast user experience (near-instant confirmations)
+- Reduces transaction costs by batching operations
+- Acts as the first layer of execution before Ethereum settlement
+
+---
+
+In Base, the sequencer plays a critical role in scaling Ethereum while maintaining security through eventual settlement on Layer 1.
+
 ## MEV Basics
 
 MEV (Maximal Extractable Value) refers to the value that can be captured by reordering, including, or excluding transactions within a block.
