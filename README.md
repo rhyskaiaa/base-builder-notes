@@ -297,6 +297,12 @@ Important concepts:
 
 Higher liquidity generally leads to smoother trading experiences and more efficient markets.
 
+### Real-world example
+
+- A USDC/ETH pool on Uniswap allows users to swap instantly
+- Higher liquidity pools reduce slippage for traders
+- LPs earn fees proportional to their share of the pool
+
 ---
 ## NFT Platforms
 
