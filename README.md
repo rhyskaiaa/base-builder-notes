@@ -172,6 +172,19 @@ Node providers simplify application development by managing blockchain infrastru
 
 These tools are commonly used for building, testing, and deploying applications within the Base ecosystem.
 
+## Developer Mental Model for Base
+
+When building on Base, developers should think in layers:
+
+- Infrastructure layer (RPC, nodes, bridges)
+- Execution layer (smart contracts, sequencer)
+- Application layer (DeFi, NFTs, social apps)
+- UX layer (wallets, account abstraction, intents)
+
+---
+
+This layered thinking helps developers design scalable and user-friendly decentralized applications.
+
 ## Developer APIs
 
 Developer APIs help applications interact with blockchain networks and onchain data.
