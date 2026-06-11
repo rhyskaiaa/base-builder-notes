@@ -150,7 +150,6 @@ Bridges are essential for moving assets between Ethereum and Layer 2 ecosystems 
 - Infura
 - QuickNode
 - Ankr
-
 ---
 
 RPC providers allow applications and wallets to interact with the Base blockchain network.
@@ -167,9 +166,7 @@ Benefits include:
 - Monitoring and analytics tools
 
 ---
-
 Node providers simplify application development by managing blockchain infrastructure on behalf of developers.
-
 
 ---
 ## Base Ecosystem Apps
@@ -207,9 +204,7 @@ Each layer supports the growth of applications and users within the Base ecosyst
 - Token Terminal
 
 ---
-
 Analytics platforms help track ecosystem growth, protocol activity, and onchain metrics across Base.
-
 
 ### DeFi
 
@@ -227,7 +222,6 @@ Analytics platforms help track ecosystem growth, protocol activity, and onchain 
 - LayerZero
 - LI.FI
 - Polymer
-
 ---
 
 These categories show how Base is expanding across different onchain use cases.
@@ -254,7 +248,6 @@ Core concepts include:
 - Decentralized exchanges (DEXs)
 - Liquidity provision
 - Yield generation strategies
-
 ---
 
 DeFi enables open financial systems that operate globally and without centralized control.
@@ -269,7 +262,6 @@ Important concepts:
 - Trading pairs
 - Slippage
 - Market depth
-
 ---
 
 Higher liquidity generally leads to smoother trading experiences and more efficient markets.
@@ -303,11 +295,9 @@ Common API capabilities:
 - NFT metadata access
 - Token price information
 - Smart contract interactions
-
 ---
 
 APIs enable developers to build applications more efficiently by providing structured access to blockchain data and services.
-
 
 ---
 ## Explorers
@@ -319,7 +309,6 @@ APIs enable developers to build applications more efficiently by providing struc
 - Basescan — view transactions, contracts, and wallet activity on Base
 - Block explorers help track onchain activity in real time
 - Useful for debugging smart contracts and verifying deployments
-
 ---
 
 Explorers are essential for transparency and development on any blockchain network.
@@ -343,7 +332,6 @@ Examples:
 ---
 
 Indexing solutions help developers build responsive applications without directly processing all blockchain data.
-
 
 ---
 ## NFT Platforms
@@ -502,7 +490,6 @@ Useful resources include:
 
 Active communities help users learn faster, discover opportunities, and collaborate on projects.
 
-
 ## Learning Progress
 
 - Started exploring Base ecosystem fundamentals
@@ -514,7 +501,6 @@ Active communities help users learn faster, discover opportunities, and collabor
 ---
 
 This section will be updated as new skills and experiments are completed.
-
 
 ---
 ## Testing
@@ -534,7 +520,6 @@ Base Sepolia is the main testnet used for experimenting with smart contracts bef
 
 Testnets are essential for safe development and learning without risking real funds.
 
-
 ---
 ## Security
 
@@ -552,7 +537,6 @@ Testnets are essential for safe development and learning without risking real fu
 ---
 
 Staying secure onchain is essential when exploring new ecosystems and decentralized applications.
-
 
 ---
 ## Gas
@@ -586,7 +570,6 @@ Staying secure onchain is essential when exploring new ecosystems and decentrali
 ---
 
 This workflow helps ensure safe and structured smart contract development on Base.
-
 
 ---
 ## Rollups
@@ -625,7 +608,6 @@ Key points:
 
 Layer 2 networks help scale Ethereum while maintaining compatibility with its ecosystem.
 
-
 ---
 ## Smart Contracts
 
@@ -644,7 +626,6 @@ Layer 2 networks help scale Ethereum while maintaining compatibility with its ec
 
 These are useful beginner-friendly projects for learning smart contract development on Base.
 
-
 ## Key Terms
 
 - Layer 2 — A scaling solution built on top of Ethereum to improve speed and reduce costs
@@ -652,7 +633,6 @@ These are useful beginner-friendly projects for learning smart contract developm
 - OP Stack — Modular framework used to build optimistic rollups like Base
 - Gas Fees — Cost required to perform transactions on a blockchain
 - Smart Contract — Self-executing code deployed onchain
-
 
 ---
 ## Identity
@@ -669,7 +649,6 @@ These are useful beginner-friendly projects for learning smart contract developm
 ---
 
 Identity onchain helps users build persistent presence across Web3 applications.
-
 
 ---
 ## Governance
@@ -692,7 +671,6 @@ Common governance activities include:
 
 Many Web3 communities use DAOs to coordinate decisions in a transparent and decentralized manner.
 
-
 ---
 ## Stablecoins
 
@@ -711,7 +689,6 @@ Stablecoins like USDC and DAI are widely used on Base for:
 ---
 
 They are a key part of everyday onchain activity.
-
 
 ---
 ## Base Notes
@@ -760,7 +737,6 @@ Key ideas:
 
 Reliable data availability is an important component of scalable and secure blockchain systems.
 
-
 ## Cross-Chain Messaging
 
 Cross-chain messaging allows applications on different blockchain networks to communicate and exchange information.
@@ -778,7 +754,6 @@ Examples of protocols involved in cross-chain communication include LayerZero an
 
 Cross-chain messaging helps create a more connected blockchain ecosystem by enabling interoperability between networks.
 
-
 ## Oracle Networks
 
 Oracle networks provide external data to smart contracts that cannot access information outside the blockchain on their own.
@@ -794,12 +769,10 @@ Common use cases:
 
 Oracles help connect blockchain applications with real-world information.
 
-
 ## Personal Notes
 
 This repository is a collection of learning notes, ecosystem discoveries, and onchain development resources related to Base.
 
 The goal is to continuously explore new tools, applications, and technologies within the Ethereum Layer 2 ecosystem while improving practical Web3 knowledge over time.
-
 
 - Developed by Coinbase
