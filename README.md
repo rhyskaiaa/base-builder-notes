@@ -584,6 +584,30 @@ Account abstraction improves how users interact with blockchain applications by 
 
 Account abstraction helps transform blockchain interactions into a more application-like experience while preserving self-custody.
 
+## Intent-Based UX
+
+Intent-based UX is an emerging design pattern in Web3 where users express *what they want to do*, rather than *how to execute it step-by-step*.
+
+### Traditional transaction model:
+- User manually selects tokens, routes, and gas
+- Every step must be executed explicitly
+- Requires technical knowledge
+
+### Intent-based model:
+- User defines an "intent" (e.g., "swap 100 USDC to ETH")
+- System finds the best execution path automatically
+- Third-party solvers compete to fulfill the intent
+
+### Why it matters:
+- Reduces complexity for users
+- Improves execution efficiency through competition
+- Enables better pricing and routing
+- Moves UX closer to Web2-level simplicity
+
+---
+
+Intent-based systems represent the next evolution of blockchain UX, especially in ecosystems like Base where low cost and fast execution enable complex routing behind the scenes.
+
 ## MEV Basics
 
 MEV (Maximal Extractable Value) refers to the value that can be captured by reordering, including, or excluding transactions within a block.
