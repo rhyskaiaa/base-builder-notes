@@ -701,6 +701,22 @@ Base is built on the OP Stack, a modular framework developed by Optimism for sca
 
 This architecture is what allows Base to scale while staying aligned with Ethereum.
 
+## Data Availability Basics
+
+Data availability refers to ensuring that transaction data is accessible so that blockchain networks can verify and reconstruct state changes.
+
+Key ideas:
+
+* Transaction data must remain accessible
+* Rollups rely on data availability for security
+* Users and validators need access to published data
+* Data availability contributes to network transparency
+
+---
+
+Reliable data availability is an important component of scalable and secure blockchain systems.
+
+
 ## Cross-Chain Messaging
 
 Cross-chain messaging allows applications on different blockchain networks to communicate and exchange information.
