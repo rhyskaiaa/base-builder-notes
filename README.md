@@ -442,6 +442,21 @@ Benefits include:
 
 Builder events help grow the ecosystem by encouraging innovation and collaboration.
 
+## Community Resources
+
+Community resources help users stay informed and connected within the ecosystem.
+
+Useful resources include:
+
+* Official documentation
+* Community forums
+* Developer communities
+* Educational content
+* Social platforms and discussion groups
+
+---
+
+Active communities help users learn faster, discover opportunities, and collaborate on projects.
 
 
 ## Learning Progress
