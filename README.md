@@ -608,6 +608,33 @@ Intent-based UX is an emerging design pattern in Web3 where users express *what 
 
 Intent-based systems represent the next evolution of blockchain UX, especially in ecosystems like Base where low cost and fast execution enable complex routing behind the scenes.
 
+## MEV in Rollups
+
+MEV (Maximal Extractable Value) refers to the value that can be captured by controlling the ordering of transactions within a block.
+
+### In traditional Ethereum:
+- Validators or block builders can reorder transactions
+- MEV is extracted through arbitrage, liquidations, and sandwiching
+
+### In Base (as a rollup):
+- The sequencer plays a key role in transaction ordering
+- Ordering control creates potential MEV opportunities
+- Fast execution and batching can influence MEV dynamics
+
+### Common MEV types:
+- Arbitrage between DEXs
+- Liquidations in lending protocols
+- Sandwich attacks on swaps
+
+### Why it matters in Base:
+- Centralized sequencer design changes MEV distribution
+- Lower latency can reduce some MEV opportunities
+- Future decentralization of sequencers will impact MEV further
+
+---
+
+MEV is a critical concept in understanding how transaction ordering affects fairness, pricing, and protocol design in rollups like Base.
+
 ## MEV Basics
 
 MEV (Maximal Extractable Value) refers to the value that can be captured by reordering, including, or excluding transactions within a block.
