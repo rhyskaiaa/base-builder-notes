@@ -426,6 +426,22 @@ Potential areas of support include:
 
 Grants help accelerate innovation by providing resources to individuals and teams building within the ecosystem.
 
+## Hackathons and Builder Events
+
+Hackathons and builder events provide opportunities to learn, collaborate, and showcase projects.
+
+Benefits include:
+
+* Hands-on development experience
+* Networking with other builders
+* Feedback from mentors
+* Exposure to new technologies
+* Potential funding opportunities
+
+---
+
+Builder events help grow the ecosystem by encouraging innovation and collaboration.
+
 
 
 ## Learning Progress
